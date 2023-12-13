@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/EmpresasSoftware/static/css/main.87972170.css",
+    "main.js": "/EmpresasSoftware/static/js/main.1a13ba3d.js",
+    "static/js/787.d4aba7ab.chunk.js": "/EmpresasSoftware/static/js/787.d4aba7ab.chunk.js",
+    "static/media/invite+Image.png": "/EmpresasSoftware/static/media/invite+Image.444a70d6c4e906e557ea.png",
+    "index.html": "/EmpresasSoftware/index.html",
+    "main.87972170.css.map": "/EmpresasSoftware/static/css/main.87972170.css.map",
+    "main.1a13ba3d.js.map": "/EmpresasSoftware/static/js/main.1a13ba3d.js.map",
+    "787.d4aba7ab.chunk.js.map": "/EmpresasSoftware/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87972170.css",
+    "static/js/main.1a13ba3d.js"
+  ]
+}
